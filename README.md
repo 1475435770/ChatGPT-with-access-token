@@ -6,7 +6,7 @@
 
 ## 预览
 
-![](E:\Git\0.Github\ChatGPT-with-access-token\src\img\3.png)
+![](./src/img/3.png)
 
 
 
@@ -16,7 +16,7 @@
 
 * chatgpt官方登录，然后访问 [这里](http://chat.openai.com/api/auth/session) 拿 `Access Token`
 * `Access Token` 有效期 `14` 天，期间访问**不需要梯子**。这意味着你在手机上也可随意使用。
-* ![](E:\Git\0.Github\ChatGPT-with-access-token\src\img\1.png)
+* ![](./src/img/1.png)
 
 
 
@@ -26,7 +26,7 @@
 
 * 插件内置了一个
 * 可以自己搭建，设置方式在 设置 - 扩展 - 本插件名称 下面
-* ![](E:\Git\0.Github\ChatGPT-with-access-token\src\img\2.png)
+* ![](./src/img/2.png)
 
 
 
