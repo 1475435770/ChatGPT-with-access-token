@@ -1,6 +1,6 @@
 # 介绍
 
-这是一款 `vscode` 插件，支持 `免key` 使用，国内即可访问，只需要有个 ``ChatGPT` 的账号即可，设置下 `access_token` 即可
+这是一款 `vscode` 插件，支持 `免key` 使用，国内即可访问，只需要有个 `ChatGPT` 的账号即可，设置下 `access_token` 即可
 
 
 
